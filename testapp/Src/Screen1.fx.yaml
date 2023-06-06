@@ -1,2 +1,15 @@
 Screen1 As screen:
 
+    Rectangle1 As rectangle:
+        Width: =1366
+        ZIndex: =1
+
+    Label1 As label:
+        Color: =RGBA(255, 255, 255, 1)
+        Size: =16
+        Text: ="Testing Git Stuff"
+        Width: =369
+        X: =498
+        Y: =30
+        ZIndex: =2
+
