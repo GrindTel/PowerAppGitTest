@@ -15,7 +15,8 @@ Screen1 As screen:
 
     Rectangle2 As rectangle:
         Fill: =RGBA(246, 88, 16, 1)
-        X: =1075
-        Y: =470
+        Height: =656
+        Width: =1366
+        Y: =100
         ZIndex: =3
 
