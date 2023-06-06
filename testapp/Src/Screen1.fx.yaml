@@ -35,3 +35,12 @@ Screen1 As screen:
         Y: =327
         ZIndex: =5
 
+    TestButt As button:
+        OnSelect: |-
+            =Reset(Gallery3);
+            Degrees(250)
+        Text: ="Button"
+        X: =560
+        Y: =499
+        ZIndex: =5
+
