@@ -3,27 +3,28 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Gallery3": 8,
-    "galleryTemplate3": 9,
+    "Gallery3": 9,
+    "galleryTemplate3": 10,
     "Host": 3,
-    "Image3": 10,
-    "Label1": 6,
-    "NextArrow3": 13,
+    "Image3": 11,
+    "Label1": 7,
+    "Label2": 17,
+    "NextArrow3": 14,
     "Rectangle1": 5,
-    "Rectangle2": 16,
-    "Rectangle4": 15,
+    "Rectangle2": 6,
+    "Rectangle4": 16,
     "Screen1": 4,
-    "Screen2": 7,
-    "Separator3": 14,
-    "Subtitle3": 12,
-    "Title3": 11
+    "Screen2": 8,
+    "Separator3": 15,
+    "Subtitle3": 13,
+    "Title3": 12
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "06/06/2023 18:57:12",
+  "HeaderLastSavedDateTimeUTC": "06/06/2023 18:59:02",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
-    "4ef10417-c27e-4541-accc-ce7918ea785e": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/c17a9b7452ae42e398f2349862ad197a\""
+    "4ef10417-c27e-4541-accc-ce7918ea785e": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/cafbbbb1d3ba4be68860cacd20cbaaba\""
   },
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
@@ -130,6 +131,7 @@
     "Host": {},
     "Image3": {},
     "Label1": {},
+    "Label2": {},
     "NextArrow3": {},
     "Rectangle1": {},
     "Rectangle2": {},
@@ -149,6 +151,7 @@
     "Host": 0,
     "Image3": 0,
     "Label1": 1,
+    "Label2": 0,
     "NextArrow3": 0,
     "Rectangle1": 0,
     "Rectangle2": 0,
@@ -165,17 +168,17 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1034309,
+    "AnalysisLoadTime": 0.095339,
     "ControlCount": {
       "gallery": 1,
       "galleryTemplate": 1,
       "icon": 1,
       "image": 1,
       "label": 3,
-      "rectangle": 3,
+      "rectangle": 4,
       "screen": 2
     },
-    "DeserializationLoadTime": 1.8380836
+    "DeserializationLoadTime": 1.9835003
   },
   "WasLocalDatabaseReferencesEmpty": false
 }
