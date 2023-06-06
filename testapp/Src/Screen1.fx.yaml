@@ -13,14 +13,14 @@ Screen1 As screen:
         ZIndex: =2
 
     Rectangle2 As rectangle:
-        Fill: =RGBA(246, 88, 16, 1)
+        Fill: =RGBA(0, 88, 16, 1)
         Height: =656
         Width: =1366
         Y: =100
         ZIndex: =3
 
     Label2 As label:
-        Color: =RGBA(255, 255, 255, 1)
+        Color: =RGBA(0, 255, 255, 1)
         Text: ="qwertyasdf"
         X: =52
         Y: =30
