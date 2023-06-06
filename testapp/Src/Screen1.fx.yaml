@@ -26,3 +26,10 @@ Screen1 As screen:
         Y: =30
         ZIndex: =4
 
+    Button1 As button:
+        OnSelect: =Reset(Gallery3)
+        Text: ="Button"
+        X: =270
+        Y: =327
+        ZIndex: =5
+
