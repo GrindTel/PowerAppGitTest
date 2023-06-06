@@ -6,7 +6,7 @@ Screen1 As screen:
 
     Label1 As label:
         Size: =16
-        Text: ="Testing Git Stuff 001"
+        Text: ="Testing Test Changes"
         Width: =369
         X: =498
         Y: =30
