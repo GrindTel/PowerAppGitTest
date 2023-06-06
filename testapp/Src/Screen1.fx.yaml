@@ -26,6 +26,15 @@ Screen1 As screen:
         Y: =30
         ZIndex: =4
 
+    TestButt As button:
+        OnSelect: |-
+            =Reset(Gallery3);
+            Degrees(250)
+        Text: ="Button"
+        X: =300
+        Y: =440
+        ZIndex: =5
+
     Button1 As button:
         OnSelect: |-
             =Reset(Gallery3);
@@ -33,14 +42,5 @@ Screen1 As screen:
         Text: ="Button"
         X: =270
         Y: =327
-        ZIndex: =5
-
-    TestButt As button:
-        OnSelect: |-
-            =Reset(Gallery3);
-            Degrees(250)
-        Text: ="Button"
-        X: =560
-        Y: =499
         ZIndex: =5
 
