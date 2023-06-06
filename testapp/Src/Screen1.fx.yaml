@@ -7,7 +7,7 @@ Screen1 As screen:
     Label1 As label:
         Color: =RGBA(255, 255, 255, 1)
         Size: =16
-        Text: ="Testing Git Stuff 232131"
+        Text: ="Testing Git Stuff 001"
         Width: =369
         X: =498
         Y: =30
