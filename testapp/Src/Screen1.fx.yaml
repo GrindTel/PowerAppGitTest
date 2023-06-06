@@ -13,3 +13,9 @@ Screen1 As screen:
         Y: =30
         ZIndex: =2
 
+    Rectangle2 As rectangle:
+        Fill: =RGBA(246, 88, 16, 1)
+        X: =1075
+        Y: =470
+        ZIndex: =3
+

@@ -10,6 +10,7 @@
     "Label1": 6,
     "NextArrow3": 13,
     "Rectangle1": 5,
+    "Rectangle2": 16,
     "Rectangle4": 15,
     "Screen1": 4,
     "Screen2": 7,
@@ -19,7 +20,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "06/06/2023 18:56:27",
+  "HeaderLastSavedDateTimeUTC": "06/06/2023 18:57:12",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "4ef10417-c27e-4541-accc-ce7918ea785e": "\"/providers/microsoft.powerapps/apis/shared_office365users/connections/c17a9b7452ae42e398f2349862ad197a\""
@@ -131,6 +132,7 @@
     "Label1": {},
     "NextArrow3": {},
     "Rectangle1": {},
+    "Rectangle2": {},
     "Rectangle4": {},
     "Screen1": {},
     "Screen2": {},
@@ -149,6 +151,7 @@
     "Label1": 1,
     "NextArrow3": 0,
     "Rectangle1": 0,
+    "Rectangle2": 0,
     "Rectangle4": 0,
     "Screen1": 0,
     "Screen2": 0,
