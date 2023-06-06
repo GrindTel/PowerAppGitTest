@@ -93,7 +93,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -111,8 +111,7 @@
     "FileID": "a89e42d7-3953-406e-a6ae-dfbf1457c0a8",
     "Id": "a89e42d7-3953-406e-a6ae-dfbf1457c0a8",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Git Test",
     "OriginatingVersion": "1.331",
     "ParserErrorCount": 0
@@ -129,6 +128,7 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Screen1",
+    "Screen2"
   ]
 }
