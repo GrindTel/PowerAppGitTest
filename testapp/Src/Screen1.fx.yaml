@@ -21,7 +21,7 @@ Screen1 As screen:
 
     Label2 As label:
         Color: =RGBA(255, 255, 255, 1)
-        Text: ="qwerty"
+        Text: =Concatenate("qwer", "ty")
         X: =52
         Y: =30
         ZIndex: =4
