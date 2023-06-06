@@ -20,7 +20,8 @@ Screen1 As screen:
         ZIndex: =3
 
     Label2 As label:
-        Text: ="Text 1"
+        Color: =RGBA(255, 255, 255, 1)
+        Text: ="qwerty"
         X: =52
         Y: =30
         ZIndex: =4
