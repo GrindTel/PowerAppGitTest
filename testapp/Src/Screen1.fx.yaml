@@ -27,7 +27,9 @@ Screen1 As screen:
         ZIndex: =4
 
     Button1 As button:
-        OnSelect: =Reset(Gallery3)
+        OnSelect: |-
+            =Reset(Gallery3);
+            Degrees(250)
         Text: ="Button"
         X: =270
         Y: =327
